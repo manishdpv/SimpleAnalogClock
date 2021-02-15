@@ -3,7 +3,7 @@
     margin: auto;
     height: 40vw;
     width: 40vw;
-    background-image: url(SimpleAnalogClock/images/clock.png);
+    background-image: url(images/clock.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -15,7 +15,7 @@
     width: 7%;
     top: 33%;
     left: 46%;
-    background: url(SimpleAnalogClock/images/hour.png) no-repeat;
+    background: url(images/hour.png) no-repeat;
     background-size: 100%;
     transform-origin: 61% 95%;
 }
@@ -24,7 +24,7 @@
     width: 4%;
     top: 25.5%;
     left: 47.75%;
-    background: url(SimpleAnalogClock/images/minute.png) no-repeat;
+    background: url(images/minute.png) no-repeat;
     background-size: 100%;
     transform-origin: 50% 95%;
 }
@@ -32,7 +32,7 @@
 #second{
     height: 45%;
     width: 46%;
-    background: url(SimpleAnalogClock/images/second.png) no-repeat;
+    background: url(images/second.png) no-repeat;
     top: 20%;
     left: 26.5%;
     background-size: 100%;
